@@ -1,0 +1,11 @@
+F:\Projects\TanksProject\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+F:\Projects\TanksProject\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+F:\Projects\TanksProject\Temp\bin\Debug\UnityEditor.dll
+F:\Projects\TanksProject\Temp\bin\Debug\UnityEngine.dll
+F:\Projects\TanksProject\Temp\bin\Debug\Mono.Cecil.dll
+F:\Projects\TanksProject\Temp\bin\Debug\nunit.framework.dll
+F:\Projects\TanksProject\Temp\bin\Debug\Unity.DataContract.dll
+F:\Projects\TanksProject\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+F:\Projects\TanksProject\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+F:\Projects\TanksProject\obj\Debug\Assembly-CSharp-firstpass.dll
+F:\Projects\TanksProject\obj\Debug\Assembly-CSharp-firstpass.pdb

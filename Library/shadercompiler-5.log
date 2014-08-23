@@ -1,0 +1,66 @@
+Base path: F:/Programs/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-5-35232
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=8 type=1 insize=1008 outsize=1219 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3253 outsize=328 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=0 insize=3267 outsize=609 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3267 outsize=1428 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3256 outsize=1339 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3254 outsize=127 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=3258 outsize=2023 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3258 outsize=762 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=19342 outsize=2095 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=19325 outsize=648 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=19328 outsize=1298 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=19335 outsize=1298 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=19345 outsize=1802 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=19342 outsize=1298 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=19329 outsize=1298 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=19344 outsize=1298 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=19335 outsize=3842 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=19353 outsize=4654 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=1749 outsize=3248 kw= ok=1
+Cmd: compileSnippet
+  api=8 type=0 insize=4698 outsize=1438 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4698 outsize=811 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4703 outsize=1835 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=32678 outsize=10683 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4197 outsize=2200 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=3844 outsize=1233 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=3844 outsize=1185 kw= ok=1
+Cmd: compileSnippet
+  api=0 type=1 insize=3844 outsize=678 kw= ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=1135 outsize=1461 kw= ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (37): 'tex2Dproj': no matching 2 parameter intrinsic function; Possible intrinsic functions are: tex2Dproj(sampler2D, float4|half4|min10float4|min16float4)
+  api=4 type=1 insize=1623 outsize=0 kw= ok=0
+Unhandled exception: Readfile from pipe failed. GLE=The pipe has been ended.
+
+
+Quitting shader compiler process
